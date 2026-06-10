@@ -11,5 +11,5 @@ A results-driven professional blending strong educational insights with advanced
 ##  Connect with Me
 I'm always open to collaborating on Data Analytics projects or discussing educational technology insights!
 
-* 📧 **Email:** veronica.macias.sol@gmail.com
-* 📱 **Phone:** +54 9 11 5647-2062    |    +593 964122512
+* **Email:** veronica.macias.sol@gmail.com
+* **Phone:** +54 9 11 5647-2062    |    +593 964122512
