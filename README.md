@@ -1,12 +1,15 @@
-- 👋 Hi, I’m Veronica Macias Sol.
-- 👀 I’m interested in problem-solving and thinking outside the box.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Data Analytics Projects.
-- 📫 How to reach me at veronica.macias.sol@gmail.com or +593 964122512
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Laughing came before language. 
+#  Hi, I'm Veronica Macias Sol!
 
-<!---
-Verito-Sol/Verito-Sol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###  Data Analyst | Bilingual Educator
+A results-driven professional blending strong educational insights with advanced data analytics skills. I specialize in transforming raw data into interactive, actionable visual dashboards that drive strategic decision-making.
+
+##  My Tech Stack & Tools
+* **Data Analysis & Databases:** Microsoft SQL Server, MySQL, Advanced Excel
+* **Data Visualization:** Microsoft Power BI (Dashboard Design, DAX, Interactive Filters)
+* **Programming Languages:** Python (Currently Learning)
+
+##  Connect with Me
+I'm always open to collaborating on Data Analytics projects or discussing educational technology insights!
+
+* 📧 **Email:** veronica.macias.sol@gmail.com
+* 📱 **Phone:** +54 9 11 5647-2062  |  +593 964122512
